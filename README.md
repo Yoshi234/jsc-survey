@@ -1,2 +1,2 @@
-# jsc_survey
+# jsc-survey
 Analysis of anonymized JSC member survey data
