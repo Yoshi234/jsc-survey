@@ -1,0 +1,7 @@
+# Survey Data Analysis
+
+> Question 1: What are the features we have to work with?
+
+```{R}
+
+```
