@@ -2,6 +2,16 @@
 
 > Question 1: What are the features we have to work with?
 
-```{R}
+```{r}
+# set the working directory so you can access the data properly
+current_dir = getwd()
+setwd("~/ds-lab/stats-projects/jsc-survey")
+data = read.csv('data/jsc_survey_data.csv')
+```
 
+Now take a look at the data
+
+```{r}
+x <- colnames(data)
+for (i in x)
 ```
